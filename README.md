@@ -4,7 +4,7 @@ Visualizador-de-Ventaneo-Temporal:
 https://manueldelahoz.github.io/Visualizador-de-Ventaneo-Temporal/
 
 formula-de-euler-interactiva:
-https://krh-dev.github.io/formula-de-euler-interactiva/
+[https://krh-dev.github.io/formula-de-euler-interactiva/](https://manueldelahoz.github.io/formula-de-euler-interactiva/)
 
 sinc-ctft-interactivo
 https://krh-dev.github.io/sinc-ctft-interactivo/

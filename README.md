@@ -23,4 +23,4 @@ https://manueldelahoz.github.io/emision-estimulada-interactiva/
 
 ####  Gestión de Investigación de Operaciones
 
-https://github.com/ManuelDeLaHoz/GIO-Control-1-Apunte.git
+https://manueldelahoz.github.io/GIO-Control-1-Apunte/

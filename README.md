@@ -18,8 +18,10 @@ https://manueldelahoz.github.io/F-rmula_de_Euler-S-ntesis_de_Sinusoides/
 #### Redes de Acceso y Comunicaciones Opticas
 
 emision-estimulada-interactiva
-
 https://manueldelahoz.github.io/emision-estimulada-interactiva/
+
+Simulador Matemático: Rise-Time Budget
+https://manueldelahoz.github.io/Rise-Time-Budget-en-RZ-y-NRZ/
 
 ####  Gestión de Investigación de Operaciones
 

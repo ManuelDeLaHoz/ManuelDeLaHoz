@@ -15,6 +15,9 @@ https://manueldelahoz.github.io/Simulador-de-Convoluci-n-con-Impulsos/
 Fórmula de Euler: Síntesis de Sinusoides
 https://manueldelahoz.github.io/F-rmula_de_Euler-S-ntesis_de_Sinusoides/
 
+Simulador de Indice de Modulación para Modulación AM
+https://manueldelahoz.github.io/Indice-de-modulacion/
+
 #### Redes de Acceso y Comunicaciones Opticas
 
 emision-estimulada-interactiva

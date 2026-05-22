@@ -29,3 +29,6 @@ https://manueldelahoz.github.io/Rise-Time-Budget-en-RZ-y-NRZ/
 ####  Gestión de Investigación de Operaciones
 
 https://manueldelahoz.github.io/GIO-Control-1-Apunte/
+
+Visualizador de Menores Principales
+https://manueldelahoz.github.io/Visualizador-de-menores-principales/

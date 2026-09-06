@@ -36,3 +36,9 @@ https://manueldelahoz.github.io/GIO-Control-1-Apunte/
 
 Visualizador de Menores Principales
 https://manueldelahoz.github.io/Visualizador-de-menores-principales/
+
+##### Planificación de Redes de Computadores
+
+Simulación Interactiva Algoritmo Genético Simple
+https://manueldelahoz.github.io/Simulaci-n_Interactiva-Algoritmo_Gen-tico_Simple/
+

@@ -34,6 +34,10 @@ https://manueldelahoz.github.io/Rise-Time-Budget-en-RZ-y-NRZ/
 
 https://manueldelahoz.github.io/GIO-Control-1-Apunte/
 
+#### Procesamiento Digital de Imagenes (PDI)
+
+https://manueldelahoz.github.io/Simulador-Matriz-Intr-nseca/
+
 Visualizador de Menores Principales
 https://manueldelahoz.github.io/Visualizador-de-menores-principales/
 

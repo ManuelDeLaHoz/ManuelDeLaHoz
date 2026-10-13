@@ -1,48 +1,27 @@
 #### Programas de Sistemas de Telecomunicaciones I
 
-Visualizador-de-Ventaneo-Temporal:
-https://manueldelahoz.github.io/Visualizador-de-Ventaneo-Temporal/
+* [Visualizador de Ventaneo Temporal](https://manueldelahoz.github.io/Visualizador-de-Ventaneo-Temporal/)
+* [Fórmula de Euler Interactiva](https://manueldelahoz.github.io/formula-de-euler-interactiva/)
+* [Sinc y CTFT Interactivo](https://manueldelahoz.github.io/sinc-ctft-interactivo/)
+* [Simulador de Convolución con Impulsos](https://manueldelahoz.github.io/Simulador-de-Convoluci-n-con-Impulsos/)
+* [Fórmula de Euler: Síntesis de Sinusoides](https://manueldelahoz.github.io/F-rmula_de_Euler-S-ntesis_de_Sinusoides/)
+* [Simulador de Índice de Modulación para Modulación AM](https://manueldelahoz.github.io/Indice-de-modulacion/)
+* [PCM Rate-Bit](https://manueldelahoz.github.io/PCM-rate-bit/)
 
-formula-de-euler-interactiva:
-https://manueldelahoz.github.io/formula-de-euler-interactiva/
+#### Redes de Acceso y Comunicaciones Ópticas
 
-sinc-ctft-interactivo
-https://manueldelahoz.github.io/sinc-ctft-interactivo/
+* [Emisión Estimulada Interactiva](https://manueldelahoz.github.io/emision-estimulada-interactiva/)
+* [Simulador Matemático: Rise-Time Budget en RZ y NRZ](https://manueldelahoz.github.io/Rise-Time-Budget-en-RZ-y-NRZ/)
 
-Simulador-de-Convolución-con-Impulsos
-https://manueldelahoz.github.io/Simulador-de-Convoluci-n-con-Impulsos/
+#### Gestión de Investigación de Operaciones
 
-Fórmula de Euler: Síntesis de Sinusoides
-https://manueldelahoz.github.io/F-rmula_de_Euler-S-ntesis_de_Sinusoides/
+* [GIO Control 1 - Apunte](https://manueldelahoz.github.io/GIO-Control-1-Apunte/)
 
-Simulador de Indice de Modulación para Modulación AM
-https://manueldelahoz.github.io/Indice-de-modulacion/
+#### Procesamiento Digital de Imágenes (PDI)
 
-PCM ratebit
-
-https://manueldelahoz.github.io/PCM-rate-bit/
-
-#### Redes de Acceso y Comunicaciones Opticas
-
-emision-estimulada-interactiva
-https://manueldelahoz.github.io/emision-estimulada-interactiva/
-
-Simulador Matemático: Rise-Time Budget
-https://manueldelahoz.github.io/Rise-Time-Budget-en-RZ-y-NRZ/
-
-####  Gestión de Investigación de Operaciones
-
-https://manueldelahoz.github.io/GIO-Control-1-Apunte/
-
-#### Procesamiento Digital de Imagenes (PDI)
-
-https://manueldelahoz.github.io/Simulador-Matriz-Intr-nseca/
-
-Visualizador de Menores Principales
-https://manueldelahoz.github.io/Visualizador-de-menores-principales/
+* [Simulador Matriz Intrínseca](https://manueldelahoz.github.io/Simulador-Matriz-Intr-nseca/)
+* [Visualizador de Menores Principales](https://manueldelahoz.github.io/Visualizador-de-menores-principales/)
 
 ##### Planificación de Redes de Computadores
 
-Simulación Interactiva Algoritmo Genético Simple
-https://manueldelahoz.github.io/Simulaci-n_Interactiva-Algoritmo_Gen-tico_Simple/
-
+* [Simulación Interactiva Algoritmo Genético Simple](https://manueldelahoz.github.io/Simulaci-n_Interactiva-Algoritmo_Gen-tico_Simple/)

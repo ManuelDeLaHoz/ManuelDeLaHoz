@@ -16,11 +16,12 @@
 #### Gestión de Investigación de Operaciones
 
 * [GIO Control 1 - Apunte](https://manueldelahoz.github.io/GIO-Control-1-Apunte/)
+* * [Visualizador de Menores Principales](https://manueldelahoz.github.io/Visualizador-de-menores-principales/)
 
 #### Procesamiento Digital de Imágenes (PDI)
 
 * [Simulador Matriz Intrínseca](https://manueldelahoz.github.io/Simulador-Matriz-Intr-nseca/)
-* [Visualizador de Menores Principales](https://manueldelahoz.github.io/Visualizador-de-menores-principales/)
+
 
 ##### Planificación de Redes de Computadores
 

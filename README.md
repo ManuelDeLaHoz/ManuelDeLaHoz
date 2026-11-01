@@ -26,3 +26,7 @@
 ##### Planificación de Redes de Computadores
 
 * [Simulación Interactiva Algoritmo Genético Simple](https://manueldelahoz.github.io/Simulaci-n_Interactiva-Algoritmo_Gen-tico_Simple/)
+
+##### Algoritmo de Codificación de Huffman
+
+https://manueldelahoz.github.io/algoritmo-de-codificacion-de-huffman/
